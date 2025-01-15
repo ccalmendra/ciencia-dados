@@ -1,0 +1,136 @@
+[
+    {
+        "ID_Paciente": 1,
+        "Idade": 45,
+        "Sexo": "Feminino",
+        "Condições_Médicas": [
+            {"Condição": "Diabetes", "Severidade": "Moderada"},
+            {"Condição": "Hipertensão", "Severidade": "Leve"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-01-05", "Tipo": "Ambulatório"},
+            {"Data_Consulta": "2023-02-10", "Tipo": "Check-up"}
+        ],
+        "Custo_Total": 500.00
+    },
+    {
+        "ID_Paciente": 2,
+        "Idade": 34,
+        "Sexo": "Masculino",
+        "Condições_Médicas": [
+            {"Condição": "Cardiopatia", "Severidade": "Alta"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-01-07", "Tipo": "Emergência"},
+            {"Data_Consulta": "2023-03-15", "Tipo": "Ambulatório"}
+        ],
+        "Custo_Total": 1500.00
+    },
+    {
+        "ID_Paciente": 3,
+        "Idade": 29,
+        "Sexo": "Feminino",
+        "Condições_Médicas": [
+            {"Condição": "Gravidez", "Severidade": "Normal"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-01-12", "Tipo": "Pré-natal"},
+            {"Data_Consulta": "2023-02-25", "Tipo": "Pré-natal"}
+        ],
+        "Custo_Total": 600.00
+    },
+    {
+        "ID_Paciente": 4,
+        "Idade": 57,
+        "Sexo": "Masculino",
+        "Condições_Médicas": [
+            {"Condição": "Artrite", "Severidade": "Moderada"},
+            {"Condição": "Diabetes", "Severidade": "Leve"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-03-01", "Tipo": "Ambulatório"},
+            {"Data_Consulta": "2023-03-20", "Tipo": "Check-up"}
+        ],
+        "Custo_Total": 750.00
+    },
+    {
+        "ID_Paciente": 5,
+        "Idade": 52,
+        "Sexo": "Feminino",
+        "Condições_Médicas": [
+            {"Condição": "Hipertensão", "Severidade": "Alta"},
+            {"Condição": "Cardiopatia", "Severidade": "Alta"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-04-15", "Tipo": "Emergência"},
+            {"Data_Consulta": "2023-04-30", "Tipo": "Internação"}
+        ],
+        "Custo_Total": 3000.00
+    },
+    {
+        "ID_Paciente": 6,
+        "Idade": 40,
+        "Sexo": "Masculino",
+        "Condições_Médicas": [
+            {"Condição": "Asma", "Severidade": "Moderada"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-02-12", "Tipo": "Ambulatório"},
+            {"Data_Consulta": "2023-03-25", "Tipo": "Check-up"}
+        ],
+        "Custo_Total": 450.00
+    },
+    {
+        "ID_Paciente": 7,
+        "Idade": 65,
+        "Sexo": "Feminino",
+        "Condições_Médicas": [
+            {"Condição": "Cardiopatia", "Severidade": "Alta"},
+            {"Condição": "Artrite", "Severidade": "Moderada"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-01-20", "Tipo": "Emergência"},
+            {"Data_Consulta": "2023-02-28", "Tipo": "Internação"}
+        ],
+        "Custo_Total": 4000.00
+    },
+    {
+        "ID_Paciente": 8,
+        "Idade": 30,
+        "Sexo": "Masculino",
+        "Condições_Médicas": [
+            {"Condição": "Hipertensão", "Severidade": "Moderada"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-03-18", "Tipo": "Ambulatório"},
+            {"Data_Consulta": "2023-04-14", "Tipo": "Check-up"}
+        ],
+        "Custo_Total": 320.00
+    },
+    {
+        "ID_Paciente": 9,
+        "Idade": 39,
+        "Sexo": "Feminino",
+        "Condições_Médicas": [
+            {"Condição": "Diabetes", "Severidade": "Moderada"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-05-01", "Tipo": "Check-up"},
+            {"Data_Consulta": "2023-06-05", "Tipo": "Ambulatório"}
+        ],
+        "Custo_Total": 600.00
+    },
+    {
+        "ID_Paciente": 10,
+        "Idade": 50,
+        "Sexo": "Masculino",
+        "Condições_Médicas": [
+            {"Condição": "Artrite", "Severidade": "Moderada"}
+        ],
+        "Consultas": [
+            {"Data_Consulta": "2023-03-07", "Tipo": "Ambulatório"},
+            {"Data_Consulta": "2023-04-10", "Tipo": "Check-up"}
+        ],
+        "Custo_Total": 500.00
+    }
+]
